@@ -2,14 +2,14 @@
 
 This repository has all the files and folders you need to create a new extension of MySaaS. Fork this repository for starting a new extension.
 
-<extension-description-here>
+<!extension-description-here!>
 
 ## Getting Started
 
 Just add the extension into the `config.rb` file of your [MySaaS](https://github.com/leandrosardi/mysaas) project.
 
 ```ruby
-BlackStack::Extensions.append :<your-github-repo-name-for-this-extension>
+BlackStack::Extensions.append :<!your-github-repo-name-for-this-extension!>
 ```
 
 ## Disclaimer

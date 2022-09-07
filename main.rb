@@ -10,7 +10,7 @@
 # example:
 =begin
 module BlackStack
-    module <your-github-repo-name-for-this-extension>
+    module <!your-github-repo-name-for-this-extension!>
         @@var1 = nil
         @@var2 = nil
 
