@@ -2,8 +2,7 @@
 
 This repository has all the files and folders you need to create a new extension of [MySaaS](https://github.com/leandrosardi/mysaas). 
 
-When starting a new extension, fork this repository or use it as a template as well.
-Reference: [https://deanmalone.net/post/how-to-fork-your-own-repo-on-github/](https://deanmalone.net/post/how-to-fork-your-own-repo-on-github/)
+When starting a new extension, **fork** this repository or use it as a **template** as well.
 
 ![Using this as a template for your repository](./screenshot1.png).
 
