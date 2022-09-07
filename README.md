@@ -16,6 +16,18 @@ Just add the extension into the `config.rb` file of your [MySaaS](https://github
 BlackStack::Extensions.append :<!your-github-repo-name-for-this-extension!>
 ```
 
+## API
+
+_(write API documentation here)_
+
+## Screens
+
+_(showcase app screens here)_
+
+## AJAX & Filters
+
+_(write screens workflow here, describing calls to AJAX and Filters)_
+
 ## Disclaimer
 
 The logo has been taken from [here](https://www.shareicon.net/chat-education-class-tutorial-speech-bubble-teacher-teaching-707418).
