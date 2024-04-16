@@ -1,0 +1,12 @@
+# ignore any output file
+*.out
+
+# ignore the .sandbox file.
+.sandbox
+
+# ignore lock files
+*.lock
+
+# ignore log files
+*.log
+*.log.data
