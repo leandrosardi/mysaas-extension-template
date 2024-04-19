@@ -2,13 +2,10 @@
 
 ![logo](./public/%3C!your-github-repo-name-for-this-extension!%3E/images/logo.png)
 
-This repository has all the files and folders you need to create a new extension of [MySaaS](https://github.com/leandrosardi/my.saas). 
+If you want to add screens to My.SaaS, you shouldn't for the [my.saas repository](https://github.com/leandrosardi/my.saas), because each time [@leandrosardi](https://github.com/leandrosardi) releases a new version of my.saas you should have to merge such a new version with your fork.
 
-When starting a new extension, **fork** this repository or use it as a **template** as well.
+To to disengage the my.saas core from your project, my.saas provide a feature called **[extensions](https://github.com/leandrosardi/mysaas-extension-template)**.
 
-![Using this as a template for your repository](./screenshot1.png).
-
-<!extension-description-here!>
 
 ## Getting Started
 
