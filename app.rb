@@ -1,3 +1,14 @@
+# set standard API access points (count, get, insert, page, update, upsert) for some classes.
+#
+BlackStack::API.set_server(
+    classes: {
+        # Examples
+        #:lead => Mass::Lead,
+        #:lead_data => Mass::LeadData,
+        #:lead_tag => Mass::LeadTag,
+    }
+)
+
 # default screen
 get "/<!your-github-repo-name-for-this-extension!>", :agent => /(.*)/ do
     redirect2 "/seminars/pub/<!your-github-repo-name-for-this-extension!>-generation/cold-emails-seminar", params
